@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website built with Next.js, Tailwind CSS, and deployed on Vercel.
 
-Live Demo: https://radiant-biscochitos-7b605c.netlify.app/
+Live Demo: https://vincentmutuku.netlify.app/
 
 ## Features
 
